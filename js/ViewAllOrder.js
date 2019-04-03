@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    const Url = "https://193.168.0.199:3001/api/delivery.Order";
+    const Url = "https://193.168.0.199:3000/api/delivery.Order";
 
         $.ajax({
             url: Url,
